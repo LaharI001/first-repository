@@ -1,2 +1,2 @@
 # LaharI001.github.io
- My first repository in GiT...!!
+ My first repository in GIT...!!
